@@ -1,0 +1,13 @@
+Muhammad Javed is a beginner in Python.
+I am very intelligent.
+I was also selected for the BS Software Engineering program at SMIU.
+However, I rejected the offer from SMIU
+because I want to get admission in UBIT.
+UBIT is one of the best universities for the BS Software Engineering program.
+
+Jiya is also a beginner in Python.
+She is very intelligent.
+She was also selected for the BS Software Engineering program at SMIU.
+However, she rejected the offer from SMIU
+because she wants to get admission in UBIT.
+UBIT is one of the best universities for the BS Software Engineering program.

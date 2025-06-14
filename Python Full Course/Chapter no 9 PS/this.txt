@@ -1,0 +1,5 @@
+AI (Artificial Intelligence) data science ek interdisciplinary field hai jo machine learning aur statistical techniques ka use karke data se insights nikalta hai.
+Yeh field large datasets ko analyze karne, patterns identify karne, aur future predictions banane mein madad karti hai.
+Data scientists AI models train karte hain jisse computers human jaise decisions le sakte hain.
+AI tools jaise neural networks, decision trees, aur clustering algorithms kaafi popular hote ja rahe hain.
+Aaj ke digital yug mein, AI data science har industry mein decision-making ko smarter aur faster bana raha hai.

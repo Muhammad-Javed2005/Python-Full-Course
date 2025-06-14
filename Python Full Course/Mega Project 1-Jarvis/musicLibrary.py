@@ -1,0 +1,11 @@
+musics = {"jhol": "https://youtu.be/-2RAq5o5pwc?si=Q9j00ENyFfxIy8nY",
+          "saware" :"https://youtu.be/m-e6lZuf5wc?si=5ipVLMHd2nhSqhrd",
+          "pheli dafa" :"https://youtu.be/DQj6JAP86EY?si=oYYMuOGAT7zS9T45",
+          "pee loon" :"https://youtu.be/Nbr_KJT0TIc?si=qXhjSy2PT5gAHPsM",
+          "kinna sona": "https://youtu.be/dH1uaLw0IJA?si=1TJdBkNk6FpH9dd-",
+          "saibo" : "https://youtu.be/EYxFdT-d9QA?si=UFF6PULh9-oQI_3D",
+          "tere bina" : "https://youtu.be/rm5-KhqwqeQ?si=eZem-tzc0tsSxPjI",
+          "khudaya khair":"https://youtu.be/yCG2-i-3e0g?si=jYmurGIvyXH0I899",
+          "raabta" : "https://youtu.be/UJ5J0cFZZTE?si=zJKmsNhcdFieTn0u",
+          "Mitwa" : "https://youtu.be/TKrSUJKNGus?si=y5Gg09iFSssmXTAG",
+          "Samjhawan":"https://youtu.be/yQ6d627OZig?si=a_rlcGkPb_zHtgFJ" }
